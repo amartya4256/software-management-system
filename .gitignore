@@ -1,0 +1,6 @@
+env
+__pycache__
+.pytest_cache
+.vscode
+software_manager/__pycache__
+software_manager/tests/__pycache__
